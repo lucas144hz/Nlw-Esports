@@ -7,7 +7,7 @@
 Projeto construido do evento Next Level Week da Rocketseat.
 
 
-[Clique aqui para acessar](https://github.com/lucas144hz/Nlw-Esports)
+[Clique aqui para acessar](https://nlw-esports-explorer-three.vercel.app/)
 
 ## Tecnologias
 
